@@ -1,0 +1,7 @@
+org.Osativa.eg	org.Osativa.egBASE
+org.Osativa.eg.db	org.Osativa.egBASE
+org.Osativa.egORGANISM	org.Osativa.egORGANISM
+org.Osativa.eg_dbconn	org.Osativa.eg_dbconn
+org.Osativa.eg_dbfile	org.Osativa.eg_dbconn
+org.Osativa.eg_dbInfo	org.Osativa.eg_dbconn
+org.Osativa.eg_dbschema	org.Osativa.eg_dbconn

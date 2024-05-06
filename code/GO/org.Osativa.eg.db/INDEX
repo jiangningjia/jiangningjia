@@ -1,0 +1,5 @@
+org.Osativa.eg.db       Bioconductor annotation data package
+org.Osativa.egORGANISM
+                        The Organism for org.Osativa.eg
+org.Osativa.eg_dbconn   Collect information about the package
+                        annotation DB
